@@ -1,0 +1,12 @@
+
+---- LIST BEGIN ----
+Valore del nodo: Prodotto [codice=9, descrizione=Riso Arborio - 500g, costo=1.8]
+Valore del nodo: Prodotto [codice=8, descrizione=Uova fresche - 6pz, costo=1.5]
+Valore del nodo: Prodotto [codice=7, descrizione=Banane - 1kg, costo=1.2]
+Valore del nodo: Prodotto [codice=6, descrizione=Mele Golden - 1kg, costo=2.0]
+Valore del nodo: Prodotto [codice=5, descrizione=Insalata lattuga - 1pz, costo=0.9]
+Valore del nodo: Prodotto [codice=4, descrizione=Pomodori - 1kg, costo=1.5]
+Valore del nodo: Prodotto [codice=3, descrizione=Pane integrale - 500g, costo=1.3]
+Valore del nodo: Prodotto [codice=2, descrizione=Yogurt greco bianco - 500g, costo=1.8]
+Valore del nodo: Prodotto [codice=1, descrizione=Latte fresco intero - 1L, costo=2.5]
+---- LIST END ----
